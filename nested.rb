@@ -16,8 +16,7 @@ def hopper
         }
      }
 
-  return :grace_hopper[:known_for]
-  return :grace_hopper[:languages]
+  return :grace_hopper
 end
 
 def alan_kay_is_known_for
